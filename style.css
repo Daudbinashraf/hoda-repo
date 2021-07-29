@@ -1,0 +1,16 @@
+/* font googole */
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* image style  */
+.img-gray{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+/* .container img{
+    height: 149px;
+    width: 149px;   
+
+} */
